@@ -2,6 +2,7 @@
 var DinnerOverviewCtrl = function (view, modell) {
 	
 	
+	
 	view.receipeButton.click(function()
 	{
 		gotos.gotoDinnerPrep();
